@@ -1,0 +1,22 @@
+C:\Users\mor\Desktop\B19 Ex05 MorShaul 206337800 KoralFalach 311402267\B19 Ex05 Mor 206337800 Koral 311402267\bin\Debug\Ex05_Othelo.exe.config
+C:\Users\mor\Desktop\B19 Ex05 MorShaul 206337800 KoralFalach 311402267\B19 Ex05 Mor 206337800 Koral 311402267\bin\Debug\Ex05_Othelo.exe
+C:\Users\mor\Desktop\B19 Ex05 MorShaul 206337800 KoralFalach 311402267\B19 Ex05 Mor 206337800 Koral 311402267\bin\Debug\Ex05_Othelo.pdb
+C:\Users\mor\Desktop\B19 Ex05 MorShaul 206337800 KoralFalach 311402267\B19 Ex05 Mor 206337800 Koral 311402267\obj\Debug\Ex05_Othelo.csprojAssemblyReference.cache
+C:\Users\mor\Desktop\B19 Ex05 MorShaul 206337800 KoralFalach 311402267\B19 Ex05 Mor 206337800 Koral 311402267\obj\Debug\Ex05_Othelo.GameForm.resources
+C:\Users\mor\Desktop\B19 Ex05 MorShaul 206337800 KoralFalach 311402267\B19 Ex05 Mor 206337800 Koral 311402267\obj\Debug\Ex05_Othelo.Properties.Resources.resources
+C:\Users\mor\Desktop\B19 Ex05 MorShaul 206337800 KoralFalach 311402267\B19 Ex05 Mor 206337800 Koral 311402267\obj\Debug\Ex05_Othelo.FormSetting.resources
+C:\Users\mor\Desktop\B19 Ex05 MorShaul 206337800 KoralFalach 311402267\B19 Ex05 Mor 206337800 Koral 311402267\obj\Debug\Ex05_Othelo.csproj.GenerateResource.cache
+C:\Users\mor\Desktop\B19 Ex05 MorShaul 206337800 KoralFalach 311402267\B19 Ex05 Mor 206337800 Koral 311402267\obj\Debug\Ex05_Othelo.csproj.CoreCompileInputs.cache
+C:\Users\mor\Desktop\B19 Ex05 MorShaul 206337800 KoralFalach 311402267\B19 Ex05 Mor 206337800 Koral 311402267\obj\Debug\Ex05_Othelo.exe
+C:\Users\mor\Desktop\B19 Ex05 MorShaul 206337800 KoralFalach 311402267\B19 Ex05 Mor 206337800 Koral 311402267\obj\Debug\Ex05_Othelo.pdb
+C:\Users\mor\Desktop\מדעי המחשב\שנה ב\סמסטר ב\c#\EX5\B19 Ex05 MorShaul 206337800 KoralFalach 311402267\B19 Ex05 Mor 206337800 Koral 311402267\bin\Debug\Ex05_Othelo.exe.config
+C:\Users\mor\Desktop\מדעי המחשב\שנה ב\סמסטר ב\c#\EX5\B19 Ex05 MorShaul 206337800 KoralFalach 311402267\B19 Ex05 Mor 206337800 Koral 311402267\bin\Debug\Ex05_Othelo.exe
+C:\Users\mor\Desktop\מדעי המחשב\שנה ב\סמסטר ב\c#\EX5\B19 Ex05 MorShaul 206337800 KoralFalach 311402267\B19 Ex05 Mor 206337800 Koral 311402267\bin\Debug\Ex05_Othelo.pdb
+C:\Users\mor\Desktop\מדעי המחשב\שנה ב\סמסטר ב\c#\EX5\B19 Ex05 MorShaul 206337800 KoralFalach 311402267\B19 Ex05 Mor 206337800 Koral 311402267\obj\Debug\Ex05_Othelo.csprojAssemblyReference.cache
+C:\Users\mor\Desktop\מדעי המחשב\שנה ב\סמסטר ב\c#\EX5\B19 Ex05 MorShaul 206337800 KoralFalach 311402267\B19 Ex05 Mor 206337800 Koral 311402267\obj\Debug\Ex05_Othelo.GameForm.resources
+C:\Users\mor\Desktop\מדעי המחשב\שנה ב\סמסטר ב\c#\EX5\B19 Ex05 MorShaul 206337800 KoralFalach 311402267\B19 Ex05 Mor 206337800 Koral 311402267\obj\Debug\Ex05_Othelo.Properties.Resources.resources
+C:\Users\mor\Desktop\מדעי המחשב\שנה ב\סמסטר ב\c#\EX5\B19 Ex05 MorShaul 206337800 KoralFalach 311402267\B19 Ex05 Mor 206337800 Koral 311402267\obj\Debug\Ex05_Othelo.FormSetting.resources
+C:\Users\mor\Desktop\מדעי המחשב\שנה ב\סמסטר ב\c#\EX5\B19 Ex05 MorShaul 206337800 KoralFalach 311402267\B19 Ex05 Mor 206337800 Koral 311402267\obj\Debug\Ex05_Othelo.csproj.GenerateResource.cache
+C:\Users\mor\Desktop\מדעי המחשב\שנה ב\סמסטר ב\c#\EX5\B19 Ex05 MorShaul 206337800 KoralFalach 311402267\B19 Ex05 Mor 206337800 Koral 311402267\obj\Debug\Ex05_Othelo.csproj.CoreCompileInputs.cache
+C:\Users\mor\Desktop\מדעי המחשב\שנה ב\סמסטר ב\c#\EX5\B19 Ex05 MorShaul 206337800 KoralFalach 311402267\B19 Ex05 Mor 206337800 Koral 311402267\obj\Debug\Ex05_Othelo.exe
+C:\Users\mor\Desktop\מדעי המחשב\שנה ב\סמסטר ב\c#\EX5\B19 Ex05 MorShaul 206337800 KoralFalach 311402267\B19 Ex05 Mor 206337800 Koral 311402267\obj\Debug\Ex05_Othelo.pdb
